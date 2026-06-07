@@ -6,7 +6,7 @@ wings glide from the top‑right to the bottom‑left across a black sky, traile
 golden slices of toast, exactly as they did in 1989… only now drawn as clean vector
 art so they stay sharp on Retina displays.
 
-![Flying Toasters](images/hero.png)
+![Flying Toasters](images/flying-toasters.gif)
 
 ## What makes it faithful
 
