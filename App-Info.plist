@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>FlyingToasters</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.warpspeed.flyingtoasters.app</string>
+	<key>CFBundleName</key>
+	<string>Flying Toasters</string>
+	<key>CFBundleDisplayName</key>
+	<string>Flying Toasters</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.entertainment</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Flying Toasters — a faithful After Dark homage. Live player + settings for the installed screen saver.</string>
+</dict>
+</plist>

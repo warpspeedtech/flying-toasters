@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+
+# macOS
+.DS_Store
+
+# Third-party binary — used only as the asset source, not redistributed here
+After Dark Flying Toasters.saver/
+
+# Dev scratch: downloaded reference sprites + generated verification images
+research/reference/
+
+# Temp
+assets/_blobs.txt
