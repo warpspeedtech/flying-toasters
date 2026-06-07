@@ -1,4 +1,4 @@
-# Flying Toasters 🍞🛫
+# Flying Toasters
 
 A faithful, Retina‑crisp recreation of Berkeley Systems' legendary **After Dark
 "Flying Toasters"** screen saver — for modern macOS. Chrome toasters with flapping
@@ -139,4 +139,4 @@ Dark* rights‑holders and is **not** covered by that license — it's bundled f
 non‑commercial, credited homage. If you fork this, please keep the attributions and
 don't sell it.
 
-Made for the love of a screen saver that didn't actually save any screens. 🚀
+Made for the love of a screen saver that didn't actually save any screens.
